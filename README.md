@@ -20,8 +20,8 @@ This Python program performs classification on the optical recognition of handwr
    ```bash
    python -m venv sklearn-env
 3. Activate the virtual environment:
-   Windows: sklearn-env\Scripts\activate
-   Linux/Mac: source sklearn-env/bin/activate
+   - Windows: sklearn-env\Scripts\activate
+   - Linux/Mac: source sklearn-env/bin/activate
 
 ## Usage
 Run the program from the command line in the project folder:
