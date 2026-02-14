@@ -25,7 +25,7 @@ This Python program performs classification on the optical recognition of handwr
 
 ## Usage
 Run the program from the command line in the project folder:
-   python digitsTest.py
+   - python digitsTest.py
 
 Workflow:
 1. **Choose to train or load a model:**
